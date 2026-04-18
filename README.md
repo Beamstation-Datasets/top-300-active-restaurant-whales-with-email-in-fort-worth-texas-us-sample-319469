@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Fort Worth, Texas, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `319469` |
 | Location | Fort Worth |
 | Category | Restaurants |
-| Full dataset size | 142 records |
-| Free sample size | 14 records (9.86%) |
-| Last export | 2026-04-07T16:53:57.719287+00:00 |
+| Full dataset size | 114 records |
+| Free sample size | 11 records (9.65%) |
+| Last export | 2026-04-14T22:44:22.352694+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-fort-worth-texas-us-sample-319469/releases/download/sample-latest/beamstation_319469_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
