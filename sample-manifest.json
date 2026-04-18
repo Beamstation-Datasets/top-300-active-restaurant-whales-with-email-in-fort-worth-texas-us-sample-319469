@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dca7e6ad-7af2-4115-8eba-cfe846282820",
+  "export_job_id": "9c09a0a3-cab1-4a9d-9121-585490a76c3c",
   "id_short": 319469,
-  "published_at": "2026-04-11T19:25:34Z",
+  "published_at": "2026-04-18T07:51:51Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-fort-worth-texas-us-sample-319469",
   "sample_asset_name": "beamstation_319469_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/319469/beamstation_319469_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "07ee535fadabafbedaa28258027cf96afd81a99817b45e38800c5aee7d997595",
-  "sample_size_bytes": 71724,
-  "total_records": 142
+  "sample_records": 11,
+  "sample_sha256": "be02a3e61e443e8363a5d24baa20ffad184a93781aec880ad5ee1f2050f43234",
+  "sample_size_bytes": 60575,
+  "total_records": 114
 }
